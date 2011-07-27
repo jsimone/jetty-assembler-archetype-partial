@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>net.publicstaticvoidmain</groupId>
-  <artifactId>embedded-jetty-archetype</artifactId>
+  <artifactId>jetty-assembler-archetype-partial</artifactId>
   <version>1.4</version>
   <packaging>maven-archetype</packaging>
 
