@@ -22,6 +22,10 @@
     </snapshotRepository>
   </distributionManagement>
 
+  <properties>
+    <jetty-version>7.5.0-SNAPSHOT</jetty-version>
+  </properties>
+
   <build>
     <extensions>
       <extension>
